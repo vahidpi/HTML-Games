@@ -40,6 +40,7 @@ Q.Sprite.extend("Player",{
 
 		this.add("animation");
 		this.play("default");
+		this.add("Gun");
 	},
 	step: function(dt){
 		if(Q.inputs['left'])
@@ -48,6 +49,7 @@ Q.Sprite.extend("Player",{
 			this.p.x +=this.p.speed;
 
 		this.p.x=clamp(this.p.x,0+(this.p.w/2), Q.el.width - (this.p.w/2));
+		//this.fire();
 	}
 });
 
@@ -61,6 +63,29 @@ Q.Sprite.extend("Shot", {
 
 		this.add("animation");
 		this.play("default");
+	},
+	step: function(dt){
+		this.p.y -=this.p.speed * dt;
+	}
+});
+
+Q.component("Gun",{
+	added: function(){
+		this.entity.p.shots = [];
+		this.entity.on("step", "handleFiring");
+	},
+	extend: {
+		handleFiring: function(dt){
+			if(Q.inputs['fire']){
+				this.fire();
+			}
+		},
+
+		fire: function(){
+			var entity=this;
+			var shot= Q.stage().insert(new Q.Shot({x:entity.p.x, y:entity.p.y-50, speed:200, type:Q.SPRITE_DEFULT | Q.SPRITE_FRIENDLY}));				
+			entity.p.shots.push(shot);			
+		}
 	}
 });
 
@@ -68,7 +93,7 @@ Q.scene("mainLevel", function(stage){
 	Q.gravity = 0;
 	stage.insert(new Q.Sprite({asset: "spacebackground.png", x: Q.el.width/2, y: Q.el.height/2, type:Q.SPRITE_NONE}));
 	stage.insert(new Q.Player());
-	stage.insert(new Q.Shot({x:100, y:100}));
+	//stage.insert(new Q.Shot({x:100, y:100}));
 });
 
 Q.load([
