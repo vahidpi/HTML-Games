@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById\tmethod"
+			],
+			[
+				"doc",
+				"document\tvar"
+			],
+			[
+				"onl",
+				"onload\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"ROUTE",
+				"ROULETTE_LIVE_MOBILE"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"si",
+				"siteHelpersService"
+			],
+			[
+				"p",
+				"properties"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"l",
+				"language\tAttr"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"el",
+				"elementInViewport"
+			],
+			[
+				"common",
+				"commonDraw"
+			],
+			[
+				"neten",
+				"netentService"
+			],
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"net",
+				"netentService"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"lo",
+				"log"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"jshint",
+				"Build With: JSHint"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 151.0,
+		"history":
+		[
+			"git pull",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vahid/Documents/Personal/Projects/HTML-Games/HTML5_Canvas/index.html",
+		"/home/vahid/Documents/site-app_content/evolutiongaming/livecasino/static/js/evolution.js",
+		"/home/vahid/Documents/site-app_content/evolutiongaming/livecasino/static/js/_evolution/controller/livecasino-game-listing-controller.js",
+		"/home/vahid/Documents/site-app_content/evolutiongaming/livecasino/static/js/_evolution/gamedata/livecasino-additional-games.data.js",
+		"/home/vahid/Documents/site-app_content/evolutiongaming/livecasino/static/js/_evolution/service/livecasino-table-identification.js",
+		"/home/vahid/Documents/site-app_content/features/game-card/static/js/netent-livecasino-game-card-controller.js",
+		"/home/vahid/Documents/site-app_content/evolutiongaming/livecasino/static/js/_evolution/service/livecasino-game-list-service.js",
+		"/home/vahid/Documents/site-app_content/evolutiongaming/livecasino/static/js/_evolution/gamedata/livecasino-additional-games.data-test.js",
+		"/home/vahid/Desktop/build-a-bot-logo.png",
+		"/home/vahid/Documents/Projects/vue/build-a-bot/src/App.vue",
+		"/home/vahid/Documents/Projects/vue/build-a-bot/src/components/HelloWorld.vue",
+		"/home/vahid/Documents/site-app_content/site/design/static/img/backgrounds/offwhite/stars-blue.svg",
+		"/home/vahid/Documents/site-app_content/node_modules/jshint/bin/jshint",
+		"/home/vahid/Documents/site-app_content/features/my-safety-tools/static/js/_my-safety-tools/controller/gaming-reminders-setup-controller.js",
+		"/home/vahid/Documents/site-app_content/evolutiongaming/livecasino/static/js/_evolution/service/livecasino-game-list-service-test.js",
+		"/home/vahid/Documents/site-app_content/evolutiongaming/livecasino/static/js/evolution.min.js.map",
+		"/home/vahid/Documents/site-app_content/evolutiongaming/livecasino/static/js/evolution.min.js",
+		"/home/vahid/Documents/site-app_content/site/framework/generic/game-category-buttons_latvia.html",
+		"/home/vahid/Documents/site-app_content/site/framework/navigation-bar/main-navigation_latvia.html",
+		"/home/vahid/Documents/site-app_content/site/js/static/_game-play-view/game-play-view-controller.js",
+		"/home/vahid/Documents/site-app_content/site/js/static/_game-play-view/netent-service.js",
+		"/home/vahid/Documents/site-app_content/site/content/game-play-view/boxes/help-text.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/roulette/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/blackjack/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/commonDraw/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/site/js/static/_paf/site/framework/filter/ng-bind-html-safe.js",
+		"/home/vahid/Documents/site-app_content/site/js/static/_game-play-view/quickfire-reminders-controller.js",
+		"/home/vahid/Documents/site-app_content/site/framework/generic/game-category-buttons.html",
+		"/home/vahid/Documents/site-app_content/.gitignore",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjackcd_mobile/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/site/framework/navigation-bar/main-navigation_latvia_lv.properties",
+		"/home/vahid/Documents/site-app_content/features/game-card/static/js/game-card-controller.js",
+		"/home/vahid/Documents/site-app_content/site/pages/slots/mobile/netent/index.html",
+		"/home/vahid/Documents/site-app_content/site/js/static/paf.js",
+		"/home/vahid/Documents/site-app_content/site/js/static/_paf/site/framework/service/mobile-launcher-service.js",
+		"/home/vahid/Documents/site-app_content/site/pages/live-casino/mobile/netent/index_latvia.html",
+		"/home/vahid/Documents/site-app_content/features/game-card/content/main.html",
+		"/home/vahid/Desktop/index_latvia.html",
+		"/home/vahid/Documents/site-app_content/site/js/static/paf.min.js",
+		"/home/vahid/Documents/site-app_content/site/pages/live-casino/mobile/netent/index.html",
+		"/home/vahid/Documents/site-app_content/site/pages/live-casino/mobile/netent/gpv/index.html",
+		"/home/vahid/Desktop/tmp4/index_latvia.html",
+		"/home/vahid/Documents/site-app_content/site/js/static/_paf/site/framework/service/url-service.js",
+		"/home/vahid/Desktop/tmp3/paf.js",
+		"/home/vahid/Documents/site-app_content/site/pages/live-casino/mobile/netent/gpv_latvia/index.html",
+		"/home/vahid/Documents/site-app_content/features/game-card/content/netent-livecasino.html",
+		"/home/vahid/Documents/site-app_content/site/framework/generic/paf-js-bundle.html",
+		"/home/vahid/Documents/site-app_content/features/game-card/static/js/game-card-controller.min.js",
+		"/home/vahid/Documents/site-app_content/site/pages/live-casino/mobile/evolutiongaming/index.html",
+		"/home/vahid/Documents/site-app_content/site/js/static/game-play-view.js",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjack_mobilelr/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/site/js/static/game-play-view.min.js",
+		"/home/vahid/Documents/site-app_content/site/js/static/_paf/site/framework/controller/header-controller.js",
+		"/home/vahid/Documents/site-app_content/site/js/static/_game-play-view/gpv.js",
+		"/home/vahid/Documents/site-app_content/site/js/static/_game-play-view/proactive-service.js",
+		"/home/vahid/Documents/site-app_content/site/content/game-play-view/netent-livecasino.html",
+		"/home/vahid/Documents/site-app_content/features/game-card/static/js/default-force-login-service-test.js",
+		"/home/vahid/Desktop/tmp/index.html",
+		"/home/vahid/Desktop/tmp/index_es.properties",
+		"/home/vahid/Desktop/tmp/index.properties",
+		"/home/vahid/Desktop/index.html",
+		"/home/vahid/Documents/site-app_content/betting/betting/blocks/betting-force-login.html",
+		"/home/vahid/Documents/site-app_content/node_modules/grunt-if/node_modules/findup-sync/node_modules/lodash/lodash.js",
+		"/home/vahid/Desktop/bkk1/gpv/ingame-features.html",
+		"/home/vahid/Documents/site-app_content/site/pages/live-casino/mobile/netent/index.properties",
+		"/home/vahid/Documents/site-app_content/site/pages/live-casino/mobile/netent/index_sv.properties",
+		"/home/vahid/Documents/site-app_content/site/js/static/_paf/site/framework/factory/games-factory.js",
+		"/home/vahid/Documents/site-app_content/site/pages/slots/index.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjack_mobile/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjackcd_mobilehr/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcroulette_mobilelr/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcroulette_mobilehr/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcroulette_mobile/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjack_mobilehr/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjackcd_mobilelr/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/site/pages/slots/mobile/playngo/index.html",
+		"/home/vahid/Documents/site-app_content/site/js/static/libs.js",
+		"/home/vahid/Documents/site-app_content/site/js/static/utils/gpv-default-force-login-service-test.js",
+		"/home/vahid/Documents/site-app_content/netent/live-casino/static/js/_help-text/help-text-controller.js",
+		"/home/vahid/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/site/pages/live-casino/real/netent/index.html",
+		"/home/vahid/Documents/site-app_content/.jshintrc",
+		"/home/vahid/Documents/site-app_content/Gruntfile.js",
+		"/home/vahid/game-play-view.js",
+		"/home/vahid/Documents/site-app_content/site/js/static/_game-play-view/gpv-overlay-service.js",
+		"/home/vahid/Documents/Latvian Translation/Live Blackjack/helptext_lv.html",
+		"/home/vahid/Documents/Latvian Translation/Live Common Draw Blackjack/helptext_lv.html",
+		"/home/vahid/Documents/Latvian Translation/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/roulette/game_data.json",
+		"/home/vahid/Documents/site-app_content/site/js/static/_libs/020_paf/001_ui-bootstrap-custom-tpls-0.13.0_added_positions.js",
+		"/home/vahid/Documents/site-app_content/site/pages/live-casino/index_latvia_lv.properties",
+		"/home/vahid/Documents/site-app_content/site/pages/live-casino/index.html",
+		"/home/vahid/Documents/site-app_content/features/game-card/static/js/_game-card/helptext-service.js",
+		"/home/vahid/Documents/site-app_content/site/js/static/_game-play-view/evolutiongaming-service.js",
+		"/home/vahid/Documents/site-app_content/site/pages/testHelpText/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/site/content/game-play-view/main.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjackcdhr/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjack/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjackcd/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjack_not_mobile/game_data.json",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjackcdlr/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjackhr/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/lcblackjacklr/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/blackjack_common_draw/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/blackjack_standard/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/quickfire/slots/AgentJaneBlonde/helptext_lv.html",
+		"/home/vahid/Documents/Latvian Translation/Live Blackjack/Live Blackjack.html",
+		"/home/vahid/Documents/Latvian Translation/Live Roulette\n/Live Roulette.html",
+		"/home/vahid/Documents/Latvian Translation/Live Common Draw Blackjack.html",
+		"/home/vahid/Documents/Latvian Translation/LiveCommonDrawBlackjack/LiveCommonDrawBlackjack.html",
+		"/home/vahid/Documents/site-app_content/games/netent/slots/aloha_mobile_html/helptext_lv.html",
+		"/home/vahid/Documents/site-app_content/games/netent/slots/archangels_not_mobile/helptext_lv.html",
+		"/home/vahid/Desktop/Live Common Draw Blackjack.html",
+		"/home/vahid/Documents/site-app_content/site/js/static/_game-play-view/evolutiongaming-service-test.js",
+		"/home/vahid/Documents/site-app_content/games/quickfire/slots/Ariana/helptext_en.html",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/blackjack/untitled",
+		"/home/vahid/Documents/site-app_content/games/netent/livecasino/blackjack/game_data.json",
+		"/home/vahid/Desktop/dbconnections.xml"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bandle",
+				"site/design/static/img/backgrounds/offwhite/stars-blue.svg"
+			],
+			[
+				"jshint",
+				"node_modules/jshint/bin/jshint"
+			],
+			[
+				"url servie",
+				"site/js/static/_paf/site/framework/service/url-service.js"
+			],
+			[
+				"mobile launcher",
+				"site/js/static/_paf/site/framework/service/mobile-launcher-service.js"
+			],
+			[
+				"game-card contentn main",
+				"features/game-card/content/main.html"
+			],
+			[
+				"netent livecasin",
+				"features/game-card/content/netent-livecasino.html"
+			],
+			[
+				"game-card",
+				"features/game-card/static/js/game-card-controller.js"
+			],
+			[
+				"netent livecasino js",
+				"features/game-card/static/js/netent-livecasino-game-card-controller.js"
+			],
+			[
+				"paf-bundle",
+				"site/framework/generic/paf-js-bundle.html"
+			],
+			[
+				"bundle",
+				"site/framework/generic/paf-js-bundle.html"
+			],
+			[
+				"netent service",
+				"site/js/static/_game-play-view/netent-service.js"
+			],
+			[
+				"netent",
+				"site/js/static/_game-play-view/netent-service.js"
+			],
+			[
+				"",
+				"site/pages/live-casino/real/netent/index.html"
+			],
+			[
+				"evolution gaming service",
+				"site/js/static/_game-play-view/evolutiongaming-service.js"
+			],
+			[
+				"gpv contro",
+				"site/js/static/_game-play-view/game-play-view-controller.js"
+			],
+			[
+				"helptex servic",
+				"features/game-card/static/js/_game-card/helptext-service.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

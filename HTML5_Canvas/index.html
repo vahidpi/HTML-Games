@@ -1,0 +1,31 @@
+<html>
+
+<head>
+    <title>Canvas</title>
+    <script>
+    window.onload = function() {
+        //Step 2 : Find the canvas
+        var canvas = document.getElementById('myCanvas');
+
+        //Step 3 : Access the 2d content (pen/brash)
+        var ctx = canvas.getContext('2d');
+
+
+        //Step 4 : REnder graphics (x,y,w,h);
+        ctx.fillStyle = 'Green';
+        ctx.fillRect(300, 200, 200, 100);
+
+        ctx.fillStyle = 'Navy';
+        // (x,y,R,startAngle,endAngle,antiClock)
+        ctx.arc(100, 100, 50, 0, 2 * Math.PI, false);
+        ctx.fill();
+    };
+    </script>
+</head>
+
+<body>
+    <!-- Step 1: Define canvas element -->
+    <canvas id="myCanvas" width="600" height="400" style="background-color: #efefef" />
+</body>
+
+</html>
